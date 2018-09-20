@@ -1,0 +1,3 @@
+###about this thing:
+								This little module is a not-completed copy of sound pool on bgt written by me, Kianoosh Shakeri. It uses AGK3 by mason armstrong and carter temm. However it still has things to provide such as play stationary, play 2d, play 3d, play extended 2d and play extended 3d, update sound 3d, update listener 3d, etc.
+Copy every .py file into AGK3/audio. If it asked for replacing, Do it. Have fun!
